@@ -3,11 +3,11 @@
 // Look at the request headers in the verbose output.
 
 // This is the value of the Authorization header.
-const AUTH_HEADER = 'Basic NGRmMjg2YzItYTNjMC00ZmFkLTgwN2UtMDY0MzcyMjc4MzA4OmxpZ2ZpbFQwdDFUOUR5ZzRtcUJ2YXFrZG9lMjdaU1U4OUN2WFF1b0JkUmhUeWJ0RU1FN1BMcDZ1WWRzdW1IWnY=';
+const AUTH_HEADER = '[enter the auth header here]';
 
 // This is the endpoint where the wsk tool sent your request to get
 // the package details.
-const URL = 'https://openwhisk.ng.bluemix.net/api/v1/namespaces/DougCo_dev/actions/Bluemix_dougdb_dougkey/create-document';
+const URL = '[enter the endpoint here]';
 
 // 8080 may not be your favorite number, but Cloud Foundry insists on it.
 const port = 8080;
